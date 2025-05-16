@@ -1,8 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-GT ID: 903010832
-"""
+
 import Data_Transformation_V1 as data
 import clustering_V1 as cl
 import dim_red_V2 as dr
