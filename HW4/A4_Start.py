@@ -1,8 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-GT ID: 903010832
-"""
+
 import mdp_comp_V2 as mdp
 import mdp_comp_V2_BJ as mdp_bj
 import mdp_alg_comp__ee_FL_V1 as ee_fl
