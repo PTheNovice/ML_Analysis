@@ -1,8 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-GT ID: 903010832
-"""
+
 
 import Data_Transformation_V1 as dt
 import pandas as pd
