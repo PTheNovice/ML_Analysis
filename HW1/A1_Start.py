@@ -1,7 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-"""
+
 import Data_Transformation_V1 as data
 import DecisionTree_V1 as dt
 import EnsembleBoosting_V1 as eb_dt
