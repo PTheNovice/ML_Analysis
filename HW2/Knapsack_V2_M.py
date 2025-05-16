@@ -1,7 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-"""
+
 import pandas as pd
 import six
 import sys
