@@ -1,8 +1,4 @@
-"""
-Student Name: Perry Francois-Edwards
-GT User ID: pdfe3
-GT ID: 903010832
-"""
+
 import bettermdptools.utils.test_env
 import numpy as np
 import pandas as pd
